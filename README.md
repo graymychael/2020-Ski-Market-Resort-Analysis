@@ -1,7 +1,6 @@
-# DataScienceGuidedCapstone
+# 2020 Ski Market Resort Analysis
 
-Hello students!
-Welcome to the Data Science Guided Capstone! 
+## Data Science Guided Capstone!
 
 ## Getting Started
 
